@@ -1,0 +1,45 @@
+body{
+	font_family: "Open sans", sans-serif;
+}
+body{
+	text-align: center;
+}
+.heading{
+	color: black;
+}
+.heading1{
+	text-align: ;
+}
+body{
+	font-size: 20
+}
+h3{
+	color: black;
+}
+head{
+	font-size: 30
+}
+body{
+	background: black
+}
+body{
+    font-variant: small-caps;
+}
+.button {
+    background-color: #008B8B;
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    cursor: pointer;
+    }
+    body {
+    background-image: url("image.jpg");
+}
+body{
+     font-weight: bold;
+}
